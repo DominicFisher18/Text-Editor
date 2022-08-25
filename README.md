@@ -4,4 +4,5 @@
 
 ## Description ##
 
-The goal of this assignment is to create a text editor that runs in your browser.  It will also have additional features, one ofwhich being able to function while offline.  I have not finished the projecyt completely, but have made progress.  I have installed all of the necessary npm packages, and worked on the logic in the src folder, as well as the src-sw.js and webpack-config files.  I plan to go back and finish the rest when i have the chance.
+The goal of this assignment is to create a text editor that runs in your browser.  It will also have additional features, one ofwhich being able to function while offline.  I have not finished the project completely, but have made progress.  So far I have installed all of the necessary npm packages, uncovered the dist folder, added the required event listeners and handlers, implemented asset caching, and added css loeaders/babel to the webpack.  I still need to work on the logic in the database.js folder, as well as getting the application to open on the browser properly.
+
